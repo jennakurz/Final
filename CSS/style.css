@@ -1,5 +1,14 @@
 
 
+.warning {
+  position: relative;
+  text-align: center;
+  color: Black;
+  font-family: 'Cookie', cursive;
+  font-size: 35px;
+  font-weight: bold;
+}
+
 nav {
 
   grid-area: nav;
